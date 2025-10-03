@@ -1,4 +1,4 @@
-#PD3, example 2
+#PPD3, latihan 2
 var_e = int(input("masukkan nilai var_e: "))
 var_f = int(input("masukkan nilai var_f: "))
 var_g = int(input("masukkan nilai var_g: "))
