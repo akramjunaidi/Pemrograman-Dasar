@@ -1,4 +1,4 @@
-#PD3, example
+#PPD3, latihan 2
 var_c = int(input("masukkan nilai var_c: "))
 var_d = int(input("masukkan nilai var_d: "))
 a = var_c+var_d
@@ -9,3 +9,4 @@ print(a)
 print(b)
 print(c)
 print(d)
+
