@@ -1,4 +1,4 @@
-#VARIABEL_DINAMIS
+#VARIABEL DINAMIS
 UAS = int(input("masukkan nilai:"))
 if(UAS >= 70):
     print("Anda Lulus!")
