@@ -1,4 +1,4 @@
-#PD6, example 4
+#PPD6, example 3
 
 #list mula-mula
 buah = ["jeruk", "apel", "mangga", "durian"]
@@ -11,4 +11,5 @@ buah.append(new_buah)
 #tampilkan 
 for nama_buah in buah:
     print(nama_buah)
+
 
