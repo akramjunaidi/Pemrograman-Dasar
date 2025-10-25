@@ -1,4 +1,4 @@
-#PDD6, Tugas 
+#PPD6, Tugas 
 
 #list mula-mula
 umur_list = []
@@ -16,4 +16,5 @@ for umur in umur_list:
     if umur > 40:
         print("maka tampil tua")
     else:
+
         print("maka tampil muda")
